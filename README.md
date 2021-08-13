@@ -6,3 +6,4 @@ The code and hosting is done with my main bijay4444.github.io repo and here are 
 2. profile-card-component-main = https://bijay4444.github.io/profile-card-component-main/index.html
 3. faq-accordion-card-main = https://bijay4444.github.io/faq-accordion-card-main/index.html
 4. order-summary-component-main = https://bijay4444.github.io/order-summary-component-main/index.html
+5. social-proof-section-master = https://bijay4444.github.io/social-proof-section-master/index.html
